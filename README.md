@@ -1,1 +1,1 @@
-# insecure-login-example
+This is an insecure by design script. Used for an SQLMap article at http://wolfprosec.co.uk.
